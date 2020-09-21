@@ -17,6 +17,8 @@ abstract public class Account {
         this.balance = balance;
     }
 
+    // unødvendig kommentar
+
     public double getBalance(){
         return balance;
     }
